@@ -14,7 +14,7 @@
 ## Principles
 1. Pin versions. 2. Multi-stage, minimal runtime images. 3. Never run as root. 4. Healthchecks everywhere. 5. Secrets via environment, never committed. 6. Bind dev services to localhost.
 
-Lint your own with [devops-doctor](../devops-doctor).
+Lint your own with [devops-doctor](https://github.com/satyam-ships/devops-doctor).
 
 ## License
 [MIT](LICENSE)
